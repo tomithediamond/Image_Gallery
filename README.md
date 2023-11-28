@@ -12,7 +12,7 @@ Bootstrap 5.1
 
 ## LINKS 
 My Github repository *https://github.com/tomithediamond/Image_Gallery*
-Hosted page 
+Hosted page *https://tomithediamond.github.io/Image_Gallery/*
 
 ## ACKNOWLEDGEMENT 
 I thank Hertechtrail Academy for this partform and the opportunity to grow in the field.
